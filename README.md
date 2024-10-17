@@ -22,10 +22,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=flat&logo=graphql&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-%234F4F4F.svg?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-%23000000.svg?style=flat&logo=webassembly&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-%2300BFFF.svg?style=flat&logo=blazor&logoColor=white)
 
