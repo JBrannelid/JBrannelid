@@ -9,9 +9,6 @@
 <h4>
     <span>Hi 👋! I'm Johannes, a .NET student at Chas Academy in Stockholm, Sweden.</span>
 </h4>
-<h4>
-    <span>I'm open to internships (LIA) for fall 2025.</span>
-</h4>
 
 
 ### 🌍 Socials
