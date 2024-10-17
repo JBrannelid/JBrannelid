@@ -1,18 +1,22 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋, I'm Johannes<br>.NET student at Chas Academy - Stockholm/Sweden<
 
-<h1 align="center">Hi 👋, I'm Johannes Brannelid</h1>
-<h3 align="center">.NET student at Chas Academy - Stockholm/Sweden</h3>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Johannes Brannelid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Johannes-Brannelid) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jbrannelid&label=Profile%20views&color=0e75b6&style=flat" alt="jbrannelid" /> </p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jbrannelid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jbrannelid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrannelid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/
-johannes-brannelid-326a7097
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johannes brannelid" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jbrannelid&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=jbrannelid&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <figure><embed src="https://wakatime.com/share/@02e26e85-4ff0-4e56-8a90-19307b5555b7/f30519e3-ea84-4087-a7d5-ec7229a2c8f7.svg"></embed></figure>
