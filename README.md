@@ -8,8 +8,11 @@
 </h2>
 <h4>
     <span>Hi 👋! I'm Johannes, a .NET student at Chas Academy in Stockholm, Sweden.</span>
-    <span> I'm open to internships (LIA) for fall 2025.</span>
 </h4>
+<h4>
+    <span>I'm open to internships (LIA) for fall 2025.</span>
+</h4>
+
 
 ### 🌍 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Johannes-Brannelid) 
@@ -27,5 +30,5 @@
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-%23000000.svg?style=flat&logo=webassembly&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-%2300BFFF.svg?style=flat&logo=blazor&logoColor=white)
 
-<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=jbrannelid&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrannelid&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a><img height="110px" src="https://github-readme-stats.vercel.app/api?username=jbrannelid&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
+<img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrannelid&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
