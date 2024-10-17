@@ -1,7 +1,11 @@
 ![Profile Gif](https://github.com/JBrannelid/JBrannelid/blob/main/DarkProfile.gif?raw=true)
 
 <h4>
-    <span>Hi 👋! I'm Johannes, a .NET student at Chas Academy in Stockholm, Sweden.</span>
+    <span>
+        Hi👋 I'm Johannes, a .NET student at Chas Academy in Stockholm, Sweden. I am open to internships (LIA) for fall 2025 and welcome any connections!
+
+
+</span>
 </h4>
 <h2>
     <span style="margin-left: auto;">        
@@ -21,7 +25,7 @@
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".NET" />
 </div>
 
-### 🚀 Future Goals 2024/2025/2026
+### 🚀 Future Goals 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
