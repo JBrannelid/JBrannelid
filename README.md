@@ -1,14 +1,15 @@
-<h2 style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    ✨ About Me:
-    <span style="margin-left: auto;">        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- Adds spaces (you can adjust the number of &nbsp; for more or less space) -->
+[![](https://github.com/JBrannelid/JBrannelid/blob/main/DarkProfile.gif?raw=true)
+
+<h4>
+    <span>Hi 👋! I'm Johannes, a .NET student at Chas Academy in Stockholm, Sweden.</span>
+</h4>
+<h2>
+    <span style="margin-left: auto;">        
         <a href="https://visitcount.itsvg.in">
             <img src="https://visitcount.itsvg.in/api?id=jbrannelid&icon=0&color=0" alt="Visitor Count" />
         </a>
     </span>
 </h2>
-<h4>
-    <span>Hi 👋! I'm Johannes, a .NET student at Chas Academy in Stockholm, Sweden.</span>
-</h4>
 
 
 ### 🌍 Socials
