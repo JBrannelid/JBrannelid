@@ -1,5 +1,5 @@
 <h2 style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    💫 About Me:
+    ✨ About Me:
     <span style="margin-left: auto;">        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- Adds spaces (you can adjust the number of &nbsp; for more or less space) -->
         <a href="https://visitcount.itsvg.in">
             <img src="https://visitcount.itsvg.in/api?id=jbrannelid&icon=0&color=0" alt="Visitor Count" />
@@ -30,5 +30,6 @@
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-%23000000.svg?style=flat&logo=webassembly&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-%2300BFFF.svg?style=flat&logo=blazor&logoColor=white)
 
+<!-- Inspired by adamalston -->
 <a><img height="110px" src="https://github-readme-stats.vercel.app/api?username=jbrannelid&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
 <img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrannelid&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
