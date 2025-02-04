@@ -1,7 +1,7 @@
 <a href="https://jbrannelid.github.io/Portfolio/index.html" target="_blank" rel="noopener">
   <img src="https://github.com/JBrannelid/JBrannelid/blob/main/DarkProfile.gif?raw=true" alt="Profile Gif"/>
-  <h5>To resume pages</h5>
 </a>
+![](https://komarev.com/ghpvc/?username=jbrannelid)
 
 <h4>
     Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Johannes, a .NET student at Chas Academy in Stockholm, Sweden. I am open to <mark>internships (LIA) for fall 2025</mark> and welcome any connections!
@@ -43,9 +43,3 @@
 </div>
     
 <img src="https://github.com/JBrannelid/JBrannelid/blob/output/github-snake-dark.svg" alt="Snake Gif" />
-
-<a href="https://www.freecounterstat.com" title="free website counter">
-  <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=5ap72xc4xzc92kbplh487q716w3fx8xp" border="0" title="free website counter" alt="free website counter">
-</a>
-
-
