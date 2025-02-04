@@ -43,5 +43,9 @@
 </div>
     
 <img src="https://github.com/JBrannelid/JBrannelid/blob/output/github-snake-dark.svg" alt="Snake Gif" />
-<a href="https://www.freecounterstat.com" title="free website counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=5ap72xc4xzc92kbplh487q716w3fx8xp" border="0" title="free website counter" alt="free website counter"></a>
+
+<a href="https://www.freecounterstat.com" title="free website counter">
+  <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=5ap72xc4xzc92kbplh487q716w3fx8xp" border="0" title="free website counter" alt="free website counter">
+</a>
+
 
