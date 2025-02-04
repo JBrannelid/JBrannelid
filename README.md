@@ -1,14 +1,11 @@
-<img src="https://github.com/JBrannelid/JBrannelid/blob/main/DarkProfile.gif?raw=true" alt="Profile Gif" />
+<a href="https://jbrannelid.github.io/Portfolio/index.html" target="_blank" rel="noopener">
+  <img src="https://github.com/JBrannelid/JBrannelid/blob/main/DarkProfile.gif?raw=true" alt="Profile Gif"/>
+  <h5>To resume pages</h5>
+</a>
 
 <h4>
     Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Johannes, a .NET student at Chas Academy in Stockholm, Sweden. I am open to <mark>internships (LIA) for fall 2025</mark> and welcome any connections!
 </h4>
-
-<h2 style="text-align: right;">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=jbrannelid&icon=0&color=0" alt="Visitor Count" />
-    </a>
-</h2>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <h3 style="margin-right: 20px;">
@@ -21,16 +18,17 @@
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> 
         Languages</h3>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" />
 </div>
 <h3> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Collision.webp" alt="Collision" width="25" height="25" />
     Ambitions Ahead</h3>
 <div style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=yellow" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/.NET-%23008C54.svg?style=flat&logo=.net&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/SQL%20Server-%234479A1.svg?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=yellow" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-%2300D8FF.svg?style=flat&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure&logoColor=white" alt="Azure" />
     <img src="https://img.shields.io/badge/WebAssembly-%23000000.svg?style=flat&logo=webassembly&logoColor=white" alt="WebAssembly" />
     <img src="https://img.shields.io/badge/Blazor-%2300BFFF.svg?style=flat&logo=blazor&logoColor=white" alt="Blazor" />
@@ -45,3 +43,8 @@
 </div>
     
 <img src="https://github.com/JBrannelid/JBrannelid/blob/output/github-snake-dark.svg" alt="Snake Gif" />
+<noscript>
+  <a href="https://www.freecounterstat.com" title="free website counter">
+    <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=5ap72xc4xzc92kbplh487q716w3fx8xp" border="0" title="free website counter" alt="free website counter">
+  </a>
+</noscript>
