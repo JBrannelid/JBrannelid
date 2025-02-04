@@ -1,6 +1,7 @@
 <a href="https://jbrannelid.github.io/Portfolio/index.html" target="_blank" rel="noopener">
   <img src="https://github.com/JBrannelid/JBrannelid/blob/main/DarkProfile.gif?raw=true" alt="Profile Gif"/>
 </a>
+
 ![](https://komarev.com/ghpvc/?username=jbrannelid)
 
 <h4>
