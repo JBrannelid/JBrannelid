@@ -1,4 +1,4 @@
-<a href="https://jbrannelid.github.io/Portfolio/index.html" target="_blank" rel="noopener">
+<a href="https://jbrannelid.github.io/react-portfolio/" target="_blank" rel="noopener">
   <img src="https://github.com/JBrannelid/JBrannelid/blob/main/DarkProfile.gif?raw=true" alt="Profile Gif"/>
 </a>
 
