@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=jbrannelid)
 
 <h4>
-    Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Johannes, a .NET student at Chas Academy in Stockholm, Sweden. I am open to <mark>internships (LIA) for fall 2025</mark> and welcome any connections!
+    Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Johannes, a .NET student at Chas Academy in Stockholm, Sweden. Welcome any connections!
 </h4>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
