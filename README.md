@@ -18,19 +18,23 @@
     <h3 style="margin: 0 20px;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> 
         Languages</h3>
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/.NET-%23008C54.svg?style=flat&logo=.net&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Entity%20Framework-%23512BD4.svg?style=flat&logo=.net&logoColor=white" alt="Entity Framework" />
+      <img src="https://img.shields.io/badge/React-%2300D8FF.svg?style=flat&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=yellow" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/SQL%20Server-%234479A1.svg?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </div>
 <h3> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Collision.webp" alt="Collision" width="25" height="25" />
     Ambitions Ahead</h3>
 <div style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/.NET-%23008C54.svg?style=flat&logo=.net&logoColor=white" alt=".NET" />
-    <img src="https://img.shields.io/badge/SQL%20Server-%234479A1.svg?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=yellow" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-%2300D8FF.svg?style=flat&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/WebAssembly-%23000000.svg?style=flat&logo=webassembly&logoColor=white" alt="WebAssembly" />
     <img src="https://img.shields.io/badge/Blazor-%2300BFFF.svg?style=flat&logo=blazor&logoColor=white" alt="Blazor" />
 </div>
